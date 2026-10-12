@@ -5,7 +5,7 @@
 I build production trading interfaces for fintech platforms serving millions of users.
 7+ years shipping across hybrid legacy/modern stacks: Vue 3 microfrontends integrated into a Backbone.js host, delivered to web and Cordova mobile.
 
-[dmytrotuzov.dev](https://dmytrotuzov.dev) · [LinkedIn](https://linkedin.com/in/dmitrytuzov) · dmytrotuzov1@gmail.com
+[LinkedIn](https://linkedin.com/in/dmitrytuzov)
 
 ### Stack
 
@@ -16,8 +16,3 @@ I build production trading interfaces for fintech platforms serving millions of 
 - Vue 3 microfrontends (UMD) integrated into a legacy host via an event-bus contract: init handshake, JWT lifecycle, real-time data, cleanup
 - Incremental modernisation of large codebases: JS to TS, Vuex to Pinia, tech-debt reduction without rewrites
 - AI-augmented development with Claude Code and GitHub Copilot, plus workflow automation in n8n
-
-### Currently building
-
-- [polymarket-whale-tracker](https://github.com/2zovd/polymarket-whale-tracker): real-time tracker of large Polymarket positions, TypeScript
-- [claude-code-starter](https://github.com/2zovd/claude-code-starter): AI-first starter template with a strict verification protocol for test-driven development
